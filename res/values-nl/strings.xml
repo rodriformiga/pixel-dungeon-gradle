@@ -139,7 +139,7 @@
    <string-array name="HeroClass_MagPerks">
        <item >Magiers beginnen met een Staf van Magische Raket. Deze staf kan later \"disenchanted\" worden om een andere wand te upgraden.</item>
        <item >Magiers hervullen hun wand sneller.</item>
-       <item >Elk stuk eten hervult elke wand met 1 gebruik.<item>
+       <item >Elk stuk eten hervult elke wand met 1 gebruik.</item>
        <item >Magiers kunnen staffen als wapens gebruiken</item>
        <item >Rol van Indentificatie is vanag het begin bekend.</item>
    </string-array>
@@ -232,7 +232,7 @@
    <string name="Badges_RingHaggler">Ring van Haggler bemachtigt</string>
    <string name="Badges_RingThorns">Ring van Doornen bemachtigt</string>
    <string name="Badges_StrengthAttained1">13 sterke punten opgedaan</string>
-   <string name="Badges_StrengthAttained2">15 sterke punten opgedaan/string>
+   <string name="Badges_StrengthAttained2">15 sterke punten opgedaan</string>
    <string name="Badges_StrengthAttained3">17 sterke punten opgedaan</string>
    <string name="Badges_StrengthAttained4">19 sterke punten opgedaan</string>
    <string name="Badges_FoodEaten1">10 stukken eten gegeten</string>
