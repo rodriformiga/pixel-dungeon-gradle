@@ -14,9 +14,9 @@
    <!--  STRINGS OF AboutScene CLASS  -->
    <string name="AboutScene_Txt">Code &amp; graphics: Watabou\nMusic: Cube_Code\n\nThis game is inspired by Brian Walker\'s Brogue. Try it on Windows, Mac OS or Linux - it\'s awesome! ;)\n\nPlease visit official website for additional info:</string>
    <string name="AboutScene_Lnk">pixeldungeon.watabou.ru</string>
-   <string name="AboutScene_Translate">Languages Create: rodriformiga</string><!-- Write here the translation credits. -->
-   <string name="AboutScene_TranslateLnk">rodriformiga@gmail.com</string><!-- Write here the e-mail to contat for translator -->
-   <string name="AboutScene_TranslateSnd">Send E-Mail</string><!-- Write here the "Send E-mail" title of the window -->
+   <string name="AboutScene_Translate">Translator: Rik van den Berg</string><!-- Write here the translation credits. -->
+   <string name="AboutScene_TranslateLnk">oeieoeaa@gmail.com</string><!-- Write here the e-mail to contat for translator -->
+   <string name="AboutScene_TranslateSnd">Stuur dan een e-mail</string><!-- Write here the "Send E-mail" title of the window -->
 
 
    <!--  STRINGS OF RankingsScene CLASS  -->
@@ -260,7 +260,7 @@
    <string name="Badges_Victory">Amulet van Yendor bemachtigt</string>
    <string name="Badges_VictoryAll">Amulet van Yender bemachtigt door Krijger, Magier, Schurk &amp; Jager</string>
    <string name="Badges_MasteryCombo">7-hit combo</string>
-   <string name="Badges_PotionsCooked1">3 potions cooked</string>
+   <string name="Badges_PotionsCooked1">3 </string>
    <string name="Badges_PotionsCooked2">6 potions cooked</string>
    <string name="Badges_PotionsCooked3">9 potions cooked</string>
    <string name="Badges_PotionsCooked4">12 potions cooked</string>
@@ -421,7 +421,7 @@
 
 
    <!--  STRINGS OF WndSadGhost CLASS  -->
-   <string name="WndSadGhost_Rose"> Ja, Ja, dat is het, alstublieft geef het! En neem een van deze spullen, jij kunt het beter gebruiken dan ik...</string>
+   <string name="WndSadGhost_Rose">Ja, Ja, dat is het, alstublieft geef het! En neem een van deze spullen, jij kunt het beter gebruiken dan ik...</string>
    <string name="WndSadGhost_Rat">Ja! Het wezen is eindelijk gestorven, nu kan ik eindelijk rusten!... Neem een van deze spullen, jij kunt het beter gebruiken dan ik...</string>
    <string name="WndSadGhost_Wepon">Geest zijn wapen</string>
    <string name="WndSadGhost_Armor">Geest zijn bescherming</string>
