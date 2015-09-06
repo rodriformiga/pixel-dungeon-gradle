@@ -14,16 +14,16 @@
    <!--  STRINGS OF AboutScene CLASS  -->
    <string name="AboutScene_Txt">Code &amp; graphics: Watabou\nMusic: Cube_Code\n\nThis game is inspired by Brian Walker\'s Brogue. Try it on Windows, Mac OS or Linux - it\'s awesome! ;)\n\nPlease visit official website for additional info:</string>
    <string name="AboutScene_Lnk">pixeldungeon.watabou.ru</string>
-   <string name="AboutScene_Translate">Translator: Rik van den Berg</string><!-- Write here the translation credits. -->
+   <string name="AboutScene_Translate">Vertalers: Rik van den Berg & Ravi van Rooijen</string><!-- Write here the translation credits. -->
    <string name="AboutScene_TranslateLnk">oeieoeaa@gmail.com</string><!-- Write here the e-mail to contat for translator -->
-   <string name="AboutScene_TranslateSnd">Stuur dan een e-mail</string><!-- Write here the "Send E-mail" title of the window -->
+   <string name="AboutScene_TranslateSnd">Stuur e-mail</string><!-- Write here the "Send E-mail" title of the window -->
 
 
    <!--  STRINGS OF RankingsScene CLASS  -->
    <string name="RankingsScene_Title">Hoogste Scores</string>
    <string name="RankingsScene_Total">Gewonnen spelen/played:\u0020</string>
-   <string name="RankingsScene_NoGames">Er zijn nog geen spelen gespeeld</string>
-   <string name="RankingsScene_NoInfo">Geen extra informatie</string>
+   <string name="RankingsScene_NoGames">Er zijn nog geen spellen gespeeld</string>
+   <string name="RankingsScene_NoInfo">Geen informatie</string>
 
 
    <!--  STRINGS OF BadgesScene CLASS  -->
@@ -33,12 +33,12 @@
    <!--  STRINGS OF StartScene CLASS  -->
    <string name="StartScene_Load">Laad Spel</string>
    <string name="StartScene_New">Nieuw Spel</string>
-   <string name="StartScene_Erase">Wis huidig Spel</string>
+   <string name="StartScene_Erase">Wis huidig spel</string>
    <string name="StartScene_Depth">Diepte: %1$d, level: %2$d</string>
    <string name="StartScene_Really">Wil je echt een nieuw spel starten?</string>
    <string name="StartScene_Warning">Je voortgang word verwijderd</string>
    <string name="StartScene_Yes">Ja, start een nieuw spel</string>
-   <string name="StartScene_No">Nee, terug naar het hoofdmenu</string>
+   <string name="StartScene_No">Nee, keer terug naar het hoofdmenu</string>
    <string name="StartScene_Unlock">Om dit karakter vrij te spelen moet je de 3e baas verlaan met elk andere karakter</string>
    <string name="StartScene_WinGame">Om de \"Challenges\"vrij te spelen, moet je het spel uitspelen met elk karakter</string>
 
@@ -46,22 +46,22 @@
    <!--  STRINGS OF InterLevelScene CLASS  -->
    <string name="InterLevelScene_Descending">Naar beneden...</string>
    <string name="InterLevelScene_Ascending">Naar boven...</string>
-   <string name="InterLevelScene_Loading">Aan het laden...</string>
-   <string name="InterLevelScene_Resurrecting">Resurrecting...</string>
+   <string name="InterLevelScene_Loading">Laden...</string>
+   <string name="InterLevelScene_Resurrecting">Herrijzen...</string>
    <string name="InterLevelScene_Returning">Terug aan het gaan...</string>
    <string name="InterLevelScene_Falling">Aan het vallen...</string>
-   <string name="InterLevelScene_FileNotFound">Bestand niet gevonde, om een of ander reden...</string>
-   <string name="InterLevelScene_ErrorGeneric">Er ging wat mis...</string>
+   <string name="InterLevelScene_FileNotFound">Bestand niet gevonden</string>
+   <string name="InterLevelScene_ErrorGeneric">Er trad een fout op</string>
 
 
    <!--  STRINGS OF IntroScene CLASS  -->
-   <string name="IntroScene_Txt">Vele helden zijn in de kerker voor je gegaan. Sommige zijn teruggekomen met schatten en magische artifacten, de meeste zijn nooit teruggekomen. Maar geen hebben ooit het Amulet van Yendor weten te bemachtigen, die verborgen hoort te zijn in het diepste van deze kerkers.\n\nJij vind jezelf klaar voor de uitdaging, maar het belangrijkste, je voelt dat het gelukt je toelacht. Het is tijd om je eigen avontuur te beginnen.</string>
+   <string name="IntroScene_Txt">Vele helden zijn voor jou de kerker ingegaan. Sommige zijn teruggekomen met schatten en magische artefacten, maar de meeste zijn nooit teruggekomen. Maar nooit heeft iemand het Amulet van Yendor weten te bemachtigen, die verborgen schijnt te zijn in het diepste van deze kerkers.\n\nJij vind jezelf klaar voor de uitdaging, maar het belangrijkste, je voelt dat het gelukt je toelacht. Het is tijd om aan je eigen avontuur te beginnen.</string>
 
 
    <!--  STRINGS OF AmuletScene CLASS  -->
-   <string name="AmuletScene_Exit">Ik ben klaar hier</string>
+   <string name="AmuletScene_Exit">Ik ben klaar</string>
    <string name="AmuletScene_Stay">Ik ben nog niet klaar</string>
-   <string name="AmuletScene_Txt">Je houd het eindelijk vast, het Amulet van Yendor. Met deze kracht, kun je alle problemen oplossen en zo. Hoe dan ook, je leven verandert compleet en hier einigt het spel. Of je kunt nog eventjes blijven.</string>
+   <string name="AmuletScene_Txt">Je houd het eindelijk vast, het Amulet van Yendor. Met deze kracht, kun je alle problemen oplossen. Hoe dan ook, je leven verandert compleet en hier einigt het spel. Of je kunt nog eventjes blijven.</string>
 
 
    <!--  STRINGS OF GameScene CLASS  -->
@@ -70,7 +70,7 @@
    <string name="GameScene_NightMode">Wees voorzichtig, \'s nachts zijn de kerkers nog gevaarlijker!</string>
    <string name="GameScene_Chasm">Je voetstappen maken een echo door de gangen.</string>
    <string name="GameScene_Water">Je hoort overal om je heen water stromen.</string>
-   <string name="GameScene_Grass">Je ruikt de geur van grass overal.</string>
+   <string name="GameScene_Grass">Je ruikt de geur van gras overal.</string>
    <string name="GameScene_Secrets">De atmosfeer lijkt veel geheimen te bewaren.</string>
 
 
@@ -79,10 +79,10 @@
    <string name="Char_Hit">%1$s raakt %2$s</string>
    <string name="Char_Kill">%s heeft je gedood...</string>
    <string name="Char_Defeat">%1$s dood %2$s</string>
-   <string name="Char_YouMissed">%1$s %2$s Jouw aanval</string>
+   <string name="Char_YouMissed">%1$s %2$s jouw aanval</string>
    <string name="Char_SmbMissed">%1$s %2$s %3$s zijn aanval</string>
-   <string name="Char_OutParalysis">The pijn haalde %s uit zijn verlamming</string>
-   <string name="Char_StaDodged">ontweek</string>
+   <string name="Char_OutParalysis">De pijn haalde %s uit zijn verlamming</string>
+   <string name="Char_StaDodged">ontwijkt</string>
    <string name="Char_StaPoisoned">vergiftigt</string>
    <string name="Char_StaAmok">razend</string>
    <string name="Char_StaSlowed">vertraagd</string>
@@ -130,18 +130,18 @@
    <string name="HeroClass_Rog">schurk</string>
    <string name="HeroClass_Hun">jager</string>
    <string-array name="HeroClass_WarPerks">
-       <item >Krijgers beginnen met 11 gezondheid.</item>
+       <item >Krijgers beginnen met 11 HP.</item>
        <item >Krijgers beginnen met een uniek zwaard. Dit zwaard kan later \"reforged\" worden om een ander wapen te upgraden.</item>
        <item >Krijgers kunnen niet goed omgaan met afstandswapens.</item>
-       <item >Elk stuk eten genereerd ook meteen wat gezondheid.</item>
-       <item >Drankje van Sterkte is vanaf het begin bekend.</item>
+       <item >Elk stuk eten hersteld ook meteen wat HP.</item>
+       <item >Drank van Kracht is vanaf het begin bekend.</item>
    </string-array>
    <string-array name="HeroClass_MagPerks">
-       <item >Magiers beginnen met een Staf van Magische Raket. Deze staf kan later \"disenchanted\" worden om een andere wand te upgraden.</item>
-       <item >Magiers hervullen hun wand sneller.</item>
-       <item >Elk stuk eten hervult elke wand met 1 gebruik.</item>
+       <item >Magiers beginnen met een Staf van Magische Kracht. Deze staf kan later \"disenchanted\" worden om een andere wand te upgraden.</item>
+       <item >Magiers herstellen hun staf sneller.</item>
+       <item >Elk stuk eten herstelt elke staf met 1x gebruiken.</item>
        <item >Magiers kunnen staffen als wapens gebruiken</item>
-       <item >Rol van Indentificatie is vanag het begin bekend.</item>
+       <item >Rol van Indentificatie is vanaf het begin bekend.</item>
    </string-array>
    <string-array name="HeroClass_RogPerks">
        <item >Schurken beginnen met een Ring van Schaduwen+1.</item>
@@ -152,10 +152,10 @@
        <item >Rol van Magische Kaart is vanaf het begin bekend.</item>
    </string-array>
    <string-array name="HeroClass_HunPerks">
-       <item >Jagers beginnen met 15 gezondheid.</item>
+       <item >Jagers beginnen met 15 HP.</item>
        <item >Jagers beginnen met een unieke upgradebare Boomerang.</item>
        <item >Jagers zijn handig met afstandswapens en zijn er extra sterk mee.</item>
-       <item >Jagers krijgen meer gezondheid van dauwdruppels.</item>
+       <item >Jagers krijgen meer HP van dauwdruppels.</item>
        <item >Jagers weten de plek van dichtbijzijnde vijanden, ook die achter muren.</item>
    </string-array>
 
@@ -180,9 +180,9 @@
 
 
    <!--  STRINGS OF Badges CLASS  -->
-   <string name="Badges_Info1">Nieuw medaille gehaald: %s</string>
-   <string name="Badges_Info2">Nieuw super medaille gehaald: %s</string>
-   <string name="Badges_Info3">Nieuw medaillle: %s</string>
+   <string name="Badges_Info1">Nieuwe medaille gehaald: %s</string>
+   <string name="Badges_Info2">Nieuwe super medaille gehaald: %s</string>
+   <string name="Badges_Info3">Nieuwe medaillle: %s</string>
    <string name="Badges_MonsterSlain1">10 tegenstanders verslagen</string>
    <string name="Badges_MonsterSlain2">50 tegenstanders verslagen</string>
    <string name="Badges_MonsterSlain3">150 tegenstanders verslagen</string>
