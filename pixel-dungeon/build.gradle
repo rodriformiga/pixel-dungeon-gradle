@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    namespace appPackageName
+    compileSdkVersion appAndroidCompileSDK
+
+    defaultConfig {
+        manifestPlaceholders = [appName:appName]
+        applicationId appPackageName
+
+        versionCode appVersionCode
+        versionName appVersionName
+
+        //noinspection MinSdkTooLow
+        minSdkVersion appAndroidMinSDK
+        targetSdkVersion appAndroidTargetSDK
+    }
+
+}
+
+dependencies {
+    implementation project(':PD-classes')
+}

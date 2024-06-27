@@ -1,0 +1,17 @@
+apply plugin: 'com.android.library'
+
+android {
+    namespace 'com.watabou'
+    compileSdkVersion appAndroidCompileSDK
+
+    defaultConfig {
+        //noinspection MinSdkTooLow
+        minSdkVersion appAndroidMinSDK
+    }
+}
+
+allprojects {
+    tasks.withType(JavaCompile) {
+        options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
+    }
+}
